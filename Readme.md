@@ -12,8 +12,8 @@ Este projeto gera um **PDF** com as informações de um aluno de academia, inclu
 
 ### 1️⃣ **Clone o repositório**
 ```sh
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/clj-mota/ficha_aluno_imc.git
+cd ficha_aluno_imc
 
 
 
